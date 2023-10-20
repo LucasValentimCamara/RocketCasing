@@ -1,0 +1,25 @@
+
+20/05/2021 20:32
+Material: aluminio 7075-t6
+Características do material: {'Fty': 455, 'Ftu': 531, 'E': 71760, 'v': 0.33}
+Razão da força do material: b= 0.8568738229755178
+Fator de ruptura: B= 1.305301221479617
+Design de pressão: Pd= 151666.66666666666
+Pressão de ruptura: Pu= 395941.37051548384
+Fator de segurança de ruptura: Su= 2.6106024429592343
+Variação no diâmetro do invólucro: dD= 7.94157608695652e-06
+Variação na circunferência do invólucro: dc= 2.494919709270698e-05
+--------------------------------
+ 
+20/05/2021 20:37
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 172333.33333333334
+Pressão de ruptura: Pu= 388937.3914314029
+Fator de segurança de ruptura: Su= 2.256890085675452
+Variação no diâmetro do invólucro: dD= 3.200608337806406e-06
+Variação na circunferência do invólucro: dc= 1.0055007641070844e-05
+--------------------------------
+ 

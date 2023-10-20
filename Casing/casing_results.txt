@@ -1,0 +1,253 @@
+
+14/05/2021 22:33
+Material: policloreto de vinila
+Características do material: {'Fty': 41, 'Ftu': 51, 'E': 2898, 'v': 0.41}
+Razão da força do material: b= 0.803921568627451
+Fator de ruptura: B= 1.37260894551396
+Design de pressão: Pd= 16400.000000000004
+Pressão de ruptura: Pu= 45021.57341285789
+Fator de segurança de ruptura: Su= 2.7452178910279197
+Variação no diâmetro do invólucro: dD= 2.8118530020703945e-06
+Variação na circunferência do invólucro: dc= 8.833696734278756e-06
+--------------------------------
+ 
+21/05/2021 20:56
+Material: papelão
+Características do material: {'Fty': 0, 'Ftu': 14, 'E': 0, 'v': 0.0}
+Razão da força do material: b= 0.0
+Fator de ruptura: B= 8.6475
+Design de pressão: Pd= 0.0
+Pressão de ruptura: Pu= 0.0
+Fator de segurança de ruptura: Su= 0
+Variação no diâmetro do invólucro: dD= 0
+Variação na circunferência do invólucro: dc= 0.0
+--------------------------------
+ 
+21/05/2021 21:00
+Material: aço aisi 4130 laminação fria MIL-T-6736
+Características do material: {'Fty': 621, 'Ftu': 690, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.9
+Fator de ruptura: B= 1.2545811300000018
+Design de pressão: Pd= 779094.8817300012
+Pressão de ruptura: Pu= 779094.8817300012
+Fator de design de segurança: Sd= 0.7970787827806708
+Variação no diâmetro do invólucro: dD= 6.541126443310354e-06
+Variação na circunferência do invólucro: dc= 2.054955478050574e-05
+--------------------------------
+ 
+23/05/2021 15:03
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 20680.0
+Pressão de ruptura: Pu= 62229.98262902446
+Fator de segurança de ruptura: Su= 3.0091867809006025
+Variação no diâmetro do invólucro: dD= 0.0001200228126677402
+Variação na circunferência do invólucro: dc= 0.0003770627865401566
+--------------------------------
+ 
+23/05/2021 16:11
+Material: papelão
+Características do material: {'Fty': 0, 'Ftu': 14, 'E': 0, 'v': 0.0}
+Razão da força do material: b= 0.0
+Fator de ruptura: B= 0
+Design de pressão: Pd= 0.0
+Pressão de ruptura: Pu= 0.0
+Fator de segurança de ruptura: Su= 0
+Variação no diâmetro do invólucro: dD= 0
+Variação na circunferência do invólucro: dc= 0.0
+--------------------------------
+ 
+23/05/2021 16:21
+Material: aço c 1025 laminação fria
+Características do material: {'Fty': 483, 'Ftu': 586, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.8242320819112628
+Fator de ruptura: B= 1.3460819022001438
+Design de pressão: Pd= 12880.0
+Pressão de ruptura: Pu= 34675.0698006757
+Fator de segurança de ruptura: Su= 2.6921638044002876
+Variação no diâmetro do invólucro: dD= 0.00015206896551724138
+Variação na circunferência do invólucro: dc= 0.0004777387449079651
+--------------------------------
+ 
+23/05/2021 16:23
+Material: policloreto de vinila
+Características do material: {'Fty': 41, 'Ftu': 51, 'E': 2898, 'v': 0.41}
+Razão da força do material: b= 0.803921568627451
+Fator de ruptura: B= 1.37260894551396
+Design de pressão: Pd= 1125.5393353214472
+Pressão de ruptura: Pu= 2251.0786706428944
+Fator de design de segurança: Sd= 1.457079240621676
+Variação no diâmetro do invólucro: dD= 0.0007719149168224211
+Variação na circunferência do invólucro: dc= 0.0024250422318856943
+--------------------------------
+ 
+23/05/2021 16:37
+Material: aluminio 6061-t6
+Características do material: {'Fty': 241, 'Ftu': 290, 'E': 68310, 'v': 0.33}
+Razão da força do material: b= 0.8310344827586207
+Fator de ruptura: B= 1.3374033972652022
+Design de pressão: Pd= 6426.666666666667
+Pressão de ruptura: Pu= 17190.091666182067
+Fator de segurança de ruptura: Su= 2.6748067945304044
+Variação no diâmetro do invólucro: dD= 0.00022094312692138776
+Variação na circunferência do invólucro: dc= 0.000694113304397389
+--------------------------------
+ 
+23/05/2021 23:08
+Material: policloreto de vinila
+Características do material: {'Fty': 41, 'Ftu': 51, 'E': 2898, 'v': 0.41}
+Razão da força do material: b= 0.803921568627451
+Fator de ruptura: B= 1.37260894551396
+Design de pressão: Pd= 1093.3333333333333
+Pressão de ruptura: Pu= 3001.4382275238595
+Fator de segurança de ruptura: Su= 2.7452178910279206
+Variação no diâmetro do invólucro: dD= 0.0008435559006211182
+Variação na circunferência do invólucro: dc= 0.0026501090202836267
+--------------------------------
+ 
+24/05/2021 08:35
+Material: aço c 1025 normalizado
+Características do material: {'Fty': 331, 'Ftu': 448, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.7388392857142857
+Fator de ruptura: B= 1.4652926406822449
+Design de pressão: Pd= 6620.0
+Pressão de ruptura: Pu= 19400.47456263292
+Fator de segurança de ruptura: Su= 2.9305852813644897
+Variação no diâmetro do invólucro: dD= 6.947526236881559e-05
+Variação na circunferência do invólucro: dc= 0.00021826297386409447
+--------------------------------
+ 
+05/06/2021 23:31
+Material: aço c 1025 normalizado
+Características do material: {'Fty': 331, 'Ftu': 448, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.7388392857142857
+Fator de ruptura: B= 1.4652926406822449
+Design de pressão: Pd= 9898.201307465775
+Pressão de ruptura: Pu= 19796.40261493155
+Fator de design de segurança: Sd= 1.364915065067681
+Variação no diâmetro do invólucro: dD= 9.97655588453237e-05
+Variação na circunferência do invólucro: dc= 0.00031342274674974916
+--------------------------------
+ 
+06/06/2021 22:12
+Material: aço aisi 4130 normalizado MIL-T-6736
+Características do material: {'Fty': 517, 'Ftu': 655, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.7893129770992366
+Fator de ruptura: B= 1.3923094592192733
+Design de pressão: Pd= 5385.416666666667
+Pressão de ruptura: Pu= 14996.333133674256
+Fator de segurança de ruptura: Su= 2.7846189184385466
+Variação no diâmetro do invólucro: dD= 0.00020835022488755622
+Variação na circunferência do invólucro: dc= 0.0006545515358805278
+--------------------------------
+ 
+06/06/2021 22:14
+Material: policloreto de vinila
+Características do material: {'Fty': 41, 'Ftu': 51, 'E': 2898, 'v': 0.41}
+Razão da força do material: b= 0.803921568627451
+Fator de ruptura: B= 1.37260894551396
+Design de pressão: Pd= 1093.3333333333333
+Pressão de ruptura: Pu= 2251.0786706428944
+Fator de segurança de ruptura: Su= 2.05891341827094
+Variação no diâmetro do invólucro: dD= 0.001499654934437543
+Variação na circunferência do invólucro: dc= 0.0047113049249486675
+--------------------------------
+ 
+06/06/2021 22:51
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 155574.95657256115
+Pressão de ruptura: Pu= 155574.95657256115
+Fator de design de segurança: Sd= 0.6646313923396377
+Variação no diâmetro do invólucro: dD= 3.611710612862732e-05
+Variação na circunferência do invólucro: dc= 0.00011346523528261849
+--------------------------------
+ 
+06/06/2021 22:52
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 1555749.5657256115
+Pressão de ruptura: Pu= 1555749.5657256115
+Fator de design de segurança: Sd= 0.6646313923396377
+Variação no diâmetro do invólucro: dD= 3.611710612862732e-06
+Variação na circunferência do invólucro: dc= 1.1346523528261847e-05
+--------------------------------
+ 
+07/06/2021 14:58
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 15557.495657256115
+Pressão de ruptura: Pu= 15557.495657256115
+Fator de design de segurança: Sd= 0.6646313923396377
+Variação no diâmetro do invólucro: dD= 0.0003611710612862732
+Variação na circunferência do invólucro: dc= 0.0011346523528261848
+--------------------------------
+ 
+07/06/2021 15:38
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 15557.495657256115
+Pressão de ruptura: Pu= 15557.495657256115
+Fator de design de segurança: Sd= 0.6646313923396377
+Variação no diâmetro do invólucro: dD= 0.0003611710612862732
+Variação na circunferência do invólucro: dc= 0.0011346523528261848
+--------------------------------
+ 
+07/06/2021 16:16
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 5170.0
+Pressão de ruptura: Pu= 15557.495657256115
+Fator de segurança de ruptura: Su= 3.0091867809006025
+Variação no diâmetro do invólucro: dD= 0.0001200228126677402
+Variação na circunferência do invólucro: dc= 0.0003770627865401566
+--------------------------------
+ 
+16/06/2021 16:35
+Material: papelão
+Características do material: {'Fty': 0, 'Ftu': 14, 'E': 0, 'v': 0.0}
+Razão da força do material: b= 0.0
+Fator de ruptura: B= 0
+Design de pressão: Pd= 0.0
+Pressão de ruptura: Pu= 0.0
+Fator de segurança de ruptura: Su= 0
+Variação no diâmetro do invólucro: dD= 0
+Variação na circunferência do invólucro: dc= 0.0
+--------------------------------
+ 
+16/06/2021 16:51
+Material: aço inox 304
+Características do material: {'Fty': 517, 'Ftu': 724, 'E': 186300, 'v': 0.27}
+Razão da força do material: b= 0.7140883977900553
+Fator de ruptura: B= 1.5045933904503013
+Design de pressão: Pd= 517.0
+Pressão de ruptura: Pu= 1555.7495657256115
+Fator de segurança de ruptura: Su= 3.0091867809006025
+Variação no diâmetro do invólucro: dD= 0.0012002281266774019
+Variação na circunferência do invólucro: dc= 0.0037706278654015654
+--------------------------------
+ 
+29/06/2021 22:35
+Material: aço c 1010 laminação quente
+Características do material: {'Fty': 165, 'Ftu': 296, 'E': 200100, 'v': 0.32}
+Razão da força do material: b= 0.5574324324324325
+Fator de ruptura: B= 1.8510793509895436
+Design de pressão: Pd= 6947.368421052632 kPa
+Pressão de ruptura: Pu= 25720.260455854706 kPa
+Fator de segurança de ruptura: Su= 3.7021587019790863
+Variação no diâmetro do invólucro: dD= 3.290104947526237e-05
+ mVariação na circunferência do invólucro: dc= 0.00010336169532687858 m
+--------------------------------
+ 

@@ -1,0 +1,83 @@
+Como usar o programa RocketCasing:
+
+O programa foi construído em cima da planilha Casing. Ou seja, ambos tem a mesma função, porém o programa em python possui algumas mudanças com foco em facilitar o uso.
+
+Uma dessas mudança é: ao invés de inserir cada valor de propriedade do material é possível inserir só o nome, sendo ele um dos materiais disponíveis, e todas suas propriedades serão chamadas automaticamente para o cálculo.
+
+Futuramente será implementadas funções que permitam inserir os valores de outros materiais manualmente para permitir o cálculo com outros materiais.
+
+Agora, como usar esse programa?
+
+Após chamado em seu programa, o RocketCasing começará com os inputs de dados. Sendo eles: Diâmetro externo e espessura da parede.
+
+Em seguida aparecerá a opção de escolher se terá o input do Fator de design de segurança e como output o Fator de segurança de ruptura, ou vice-versa.
+
+Logo a seguir, o usuário terá a opção de olhar a lista de material ou não, é fortemente recomendado olha-lá caso não tenha certeza do nome do material, pois o programa somente aceitará se o nome for escrito corretamente.
+
+Finalmente, depois de todas essas informações, o programa trará um output com os dados calculados. Sendo esses dados, caso tenha escolhido dar como input o Fator de design de segurança, design de pressão, pressão de ruptura, fator de segurança de ruptura, fator de ruptura, razão da força do material, deformação do diâmetro e deformação da circunferência.
+Caso tenha escolhido dar como input o Fator de segurança de ruptura, terá como saída: Pressão de ruptura, Design de pressão, Fator de design de segurança, Fator de ruptura, Razão da força do material, deformação do diâmetro e deformação da circunferência.
+
+Segue um exemplo de como o programa funciona:
+
+"--Casing--
+---Dimensões do invólucro e Fatores de design---
+
+Insira o diâmetro externo (mm): 95
+
+Insira a espessura da parede (mm): 4
+ 
+Para inserir, pressione:
+0 para o valor do Fator de design de segurança 
+1 para o valor do Fator de segurança de ruptura
+
+0
+
+Insira o Fator de design de segurança: 2
+
+Deseja ver a lista de materiais? (S/N) S
+aço c 1010 laminação quente
+aço c 1010 laminação fria
+aço c 1015 laminação quente
+aço c 1015 normalizado
+aço c 1025 laminação quente
+aço c 1025 normalizado
+aço c 1025 laminação fria
+aço inox 304
+aço inox 301
+aço aisi 4130 normalizado MIL-T-6736
+aço aisi 4130 laminação fria MIL-T-6736
+aluminio 6061-t4
+aluminio 6061-t6
+aluminio 6061-t6511 extrusado
+aluminio 2024-t3
+aluminio 2024-t42
+aluminio 7075-t6
+aluminio 7075-t73
+policloreto de vinila
+acrilonitrila butadieno estireno
+papelão
+tubo de metal eletrico anelado
+tubo de metal eletrico laminado
+
+Digite o tipo do material do invólucro: aço c 1010 laminação quente
+ 
+-------------------------
+Material:  aço c 1010 laminação quente
+Características do material:  {'Fty': 165, 'Ftu': 296, 'E': 200100, 'v': 0.32}
+Razão da força do material: b=  0.55743
+Fator de ruptura: B=  1.85108
+ 
+---Pressões de design e ruptura---
+Design de pressão: Pd=  6947.36842  kPa
+Pressão de ruptura: Pu=  25720.26046  kPa
+Fator de segurança de ruptura: Su=  3.70216
+ 
+ 
+---Deformação elástica sobre pressão---
+Variação do diâmetro do invólucro: dD=  0.000033  m
+Variação da circunferência do invólucro: dc=  0.000103  m"
+
+Contatos:
+linkedin: https://www.linkedin.com/in/lucasvalentimb/
+lucasbcamara@gmail.com
+lucas.valentim@ufabc.edu.br
